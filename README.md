@@ -14,7 +14,8 @@ Il permet de récupérer facilement des informations détaillées sur une IP : v
 
 1. Assurez-vous d’avoir Python 3 installé  
 2. Installez la bibliothèque `requests` en tapant :  
-```pip install requests bash```
+```pip install requests```
+
 **Utilisation**
 Lancez le script avec :
 ```python tracex.py```
