@@ -16,18 +16,18 @@ Il permet de récupérer facilement des informations détaillées sur une IP : v
 2. Installez la bibliothèque `requests` en tapant :  
 ```pip install requests```
 
-**Utilisation**
+## Utilisation
 Lancez le script avec :
 ```python tracex.py```
 Entrez une adresse IP dans la barre et cliquez sur "Chercher" pour afficher les infos.
 
-**Avertissement**
+## Avertissement
 Cet outil est à but éducatif uniquement. Respectez la vie privée et la législation en vigueur concernant l’utilisation des données IP.
 
-**Auteur**
+## Auteur
 Artoz
 
-**Licence**
+## Licence
 MIT License
 
 *Tu peux me demander si tu veux que je génère une version plus complète ou avec d’autres sections !*
