@@ -14,28 +14,19 @@ Il permet de récupérer facilement des informations détaillées sur une IP : v
 
 1. Assurez-vous d’avoir Python 3 installé  
 2. Installez la bibliothèque `requests` en tapant :  
-```bash
-pip install requests
-Utilisation
+```pip install requests bash```
+**Utilisation**
 Lancez le script avec :
-
-bash
-Copier
-Modifier
-python tracex.py
+```python tracex.py```
 Entrez une adresse IP dans la barre et cliquez sur "Chercher" pour afficher les infos.
 
-Avertissement
+**Avertissement**
 Cet outil est à but éducatif uniquement. Respectez la vie privée et la législation en vigueur concernant l’utilisation des données IP.
 
-Auteur
-VotreNom - passionné de cybersécurité et développement Python
+**Auteur**
+Artoz
 
-Licence
+**Licence**
 MIT License
 
-cpp
-Copier
-Modifier
-
-Tu peux me demander si tu veux que je génère une version plus complète ou avec d’autres sections !
+*Tu peux me demander si tu veux que je génère une version plus complète ou avec d’autres sections !*
